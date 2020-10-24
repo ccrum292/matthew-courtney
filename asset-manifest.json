@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/matthew-courtney/static/css/main.876bf0fe.chunk.css",
+    "main.js": "/matthew-courtney/static/js/main.45ee7c98.chunk.js",
+    "main.js.map": "/matthew-courtney/static/js/main.45ee7c98.chunk.js.map",
+    "runtime-main.js": "/matthew-courtney/static/js/runtime-main.135dc020.js",
+    "runtime-main.js.map": "/matthew-courtney/static/js/runtime-main.135dc020.js.map",
+    "static/js/2.ba407418.chunk.js": "/matthew-courtney/static/js/2.ba407418.chunk.js",
+    "static/js/2.ba407418.chunk.js.map": "/matthew-courtney/static/js/2.ba407418.chunk.js.map",
+    "index.html": "/matthew-courtney/index.html",
+    "precache-manifest.9c929a1d9d0d90e80510ca0f6febcaaa.js": "/matthew-courtney/precache-manifest.9c929a1d9d0d90e80510ca0f6febcaaa.js",
+    "service-worker.js": "/matthew-courtney/service-worker.js",
+    "static/css/main.876bf0fe.chunk.css.map": "/matthew-courtney/static/css/main.876bf0fe.chunk.css.map",
+    "static/js/2.ba407418.chunk.js.LICENSE.txt": "/matthew-courtney/static/js/2.ba407418.chunk.js.LICENSE.txt",
+    "static/media/IMG_5813.png": "/matthew-courtney/static/media/IMG_5813.559c999c.png",
+    "static/media/employee.png": "/matthew-courtney/static/media/employee.0cdca106.png",
+    "static/media/equippe.png": "/matthew-courtney/static/media/equippe.02e10533.png",
+    "static/media/pokedex.png": "/matthew-courtney/static/media/pokedex.010ba81f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135dc020.js",
+    "static/js/2.ba407418.chunk.js",
+    "static/css/main.876bf0fe.chunk.css",
+    "static/js/main.45ee7c98.chunk.js"
+  ]
+}
