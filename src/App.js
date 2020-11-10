@@ -9,7 +9,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Sidebar />
         <Route exact path="/" component={Welcome} />
         <Route exact path="/portfolio" component={Portfolio} />
